@@ -1,0 +1,6 @@
+Sastrawi 
+nltk 
+tqdm
+flask
+joblib
+scikit-learn
